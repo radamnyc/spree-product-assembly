@@ -1,3 +1,4 @@
+.idea
 spec/dummy
 Gemfile.lock
 coverage
