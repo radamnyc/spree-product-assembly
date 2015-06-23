@@ -6,4 +6,7 @@ gem 'spree_wombat', github: 'spree/spree_wombat', branch: branch
 
 gem 'pry-rails'
 
+group :test do
+  gem 'poltergeist'
+end
 gemspec
